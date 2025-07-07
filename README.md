@@ -71,16 +71,6 @@
 - Allows proactive scheduling of **wheel maintenance**.
 - Increases **safety** and **operational efficiency**.
 
----
 
-## 👨‍💻 Meet the Team
-
-| Name           | Role                | LinkedIn |
-|----------------|---------------------|----------|
-| Priyaranjan D A| Frontend and design | [LinkedIn](https://www.linkedin.com/in/priyaranjan-d-a-b436002a2/) |
-| Praveen Somasundaram   | Backend Engineer     | [LinkedIn](https://www.linkedin.com/in/praveen-somasundaram2005?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) |
-| Prnav Ram    | ML Specialist        | [LinkedIn](https://www.linkedin.com/in/pranav-ram-b6a6002a2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) |
-
----
 
 
